@@ -1,0 +1,54 @@
+{
+  "generator-jhipster": {
+    "blueprints": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "2.0.0-beta.1"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "2.0.0-beta.1"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "nesthipster",
+    "jhipsterVersion": "7.0.0",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": [],
+    "pages": [],
+    "creationTimestamp": 1621712661820,
+    "serverPort": "8081",
+    "packageName": "com.jhipster.node",
+    "databaseType": "sql",
+    "devDatabaseType": "sqlite",
+    "prodDatabaseType": "mysql",
+    "authenticationType": "jwt",
+    "clientFramework": "angularX",
+    "withAdminUi": true,
+    "clientTheme": "none",
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "packageFolder": "com/jhipster/node",
+    "jwtSecretKey": "OWM1NjliNjA4N2VlMWQxOTliNjViNTZhNGI3YzI0NmJiYTgxN2IxZDhjNDA2OGQ1YWE0YWQ1N2ZiZDZjNmU4MTVjOWNlMmViM2VjOTgyZTQ4NjhmMTc5ZGViMTk4MmFhYTkyYTE4NjdmYjMwZDNiYzE0MDU2YTAxZTZkNmVhNWQ=",
+    "serviceDiscoveryType": false,
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "clientPackageManager": "npm",
+    "clientThemeVariant": "",
+    "cacheProvider": "ehcache",
+    "buildTool": "maven",
+    "enableHibernateCache": true,
+    "reactive": false,
+    "languages": ["en", "fr"]
+  }
+}
