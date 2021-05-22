@@ -49,6 +49,8 @@
     "buildTool": "maven",
     "enableHibernateCache": true,
     "reactive": false,
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1621713805000,
+    "entities": ["Author", "Book", "Reader"]
   }
 }
